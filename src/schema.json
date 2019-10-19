@@ -1,0 +1,10 @@
+{
+    mainCategory:[{id:Math.randon(), name:catName}]
+    subCategory:{
+        n-catId:[{id:Math.random(), name:cateName}]
+        n-catId:[{id:Math.random(), name:cateName}]
+        n-catId:[{id:Math.random(), name:cateName}]
+        n-catId:[{id:Math.random(), name:cateName}]
+        n-catId:[{id:Math.random(), name:cateName}]
+    }
+}
